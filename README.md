@@ -13,5 +13,3 @@ The info button is where they can educate themselves about the terms.
 The “How can I reduce ” button tells them the way they can balance out their carbon content to help improve the environment. This is where Zurich Insurance can help the users getting the trees planted by them insured so that their contribution doesn’t go in vain.
 
 This is our small attempt towards the betterment of the environment.
-
-With all of this said, This is EnviroGeeks signing out.
