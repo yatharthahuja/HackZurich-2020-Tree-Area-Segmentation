@@ -1,5 +1,7 @@
 # HackZurich-2020-Tree-Area-Segmentation
 
+_Pitch Video: https://www.youtube.com/watch?v=fTNDoVNd2a8_
+
 Climate change is one of the major problems that can have the worst impacts on mankind and at the same time is one of the problems towards which we are the most ignorant, which makes it a top-level threat. Increasing carbon content in the environment is one of the biggest contributing factors to this.
 
 This is where our team EnviroGeeks’ Android Mobile Application Tree Born comes into play. Well, along with the user-friendly UI, our application helps make the users aware of the health of their environment by showing them the tree index which is essentially the number of trees in their city per person in the city. The tree count is calculated using our machine learning based image segmentaion model which uses the satellite view imagery of the location.
